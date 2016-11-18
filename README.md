@@ -8,7 +8,7 @@ To work through the tutorials as they were intended, get started by downloading 
 
 `git clone https://github.com/agalea91/learn-python-for-seo/archive/master.zip`
 
-Since you will be generating the content in `learn-python-for-seo/output`, you should delete everything in there.
+Since you will be generating the content in `learn-python-for-seo/output`, make sure that folder is empty.
 
 Finally, after opening a tutorial notebook, make sure to clear the code outputs before working through. This can be done by clicking `Cell -> All Output -> Clear` in the toolbar menu at the top.
 
