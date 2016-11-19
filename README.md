@@ -10,6 +10,8 @@ To work through the tutorials as they were intended, get started by downloading 
 
 Since you will be generating the content in `learn-python-for-seo/output`, make sure that folder is empty.
 
+To open the `.ipynb` files you have to open them in the ipython notebook interface. This can be done by opening a terminal and then typing `jupyter notebook` and navigating to the `learn-python-for-seo` folder. 
+
 Finally, after opening a tutorial notebook, make sure to clear the code outputs before working through. This can be done by clicking `Cell -> All Output -> Clear` in the toolbar menu at the top.
 
 ### Contact me
