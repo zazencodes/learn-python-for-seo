@@ -14,5 +14,6 @@ The `.ipynb` files can be opened from inside the ipython notebook interface. To 
 
 Finally, after opening a tutorial notebook, make sure to clear the code outputs before working through. This can be done by clicking `Cell -> All Output -> Clear` in the toolbar menu at the top.
 
+___
 ### Contact me
-You can find me on twitter @agalea91 or email me at agalea91@gmail.com .
+You can find me on twitter [@agalea91](http://twitter.com/agalea91) or email me at agalea91@gmail.com .
