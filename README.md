@@ -2,7 +2,7 @@
 
 Python tutorials for beginners with focus on SEO applications.
 
-First, you'll want to have Python installed. For the smoothest expeience with these tutorials I recommend getting [the Anaconda distribtion of Python 3.5](https://www.continuum.io/downloads).
+First, you'll want to have Python installed. For the smoothest expeience with these tutorials I recommend getting [the Anaconda distribtion of Python 3.6](https://www.continuum.io/downloads).
 
 To work through the tutorials as they were intended, get started by downloading this repository. You can [download the folder in zip format](https://github.com/agalea91/learn-python-for-seo/archive/master.zip) or clone it with git:
 
